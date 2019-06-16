@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "gC4yFu+0Iqb71rzQZVbGSKqsK6U=",
+			"path": "github.com/goji/httpauth",
+			"revision": "2da839ab0f4df05a6db5eb277995589dadbd4fb9",
+			"revisionTime": "2016-06-01T13:53:02Z"
+		}
+	],
+	"rootPath": "middlewartesdemo"
+}
